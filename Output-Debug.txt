@@ -1,0 +1,12 @@
+﻿'MyFristProject.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.26\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MyFristProject.exe' (CoreCLR: clrhost): Loaded 'C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\bin\Debug\netcoreapp3.1\MyFristProject.dll'. Symbols loaded.
+'MyFristProject.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.26\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MyFristProject.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.26\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MyFristProject.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.26\System.Runtime.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MyFristProject.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.26\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MyFristProject.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.26\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Exception thrown: 'System.FormatException' in System.Private.CoreLib.dll
+An unhandled exception of type 'System.FormatException' occurred in System.Private.CoreLib.dll
+Input string was not in a correct format.
+
+C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\ConditinalDemos\Larg3Numberwithoutusinglogicaloperator.cs source file has changed. It no longer matches the version of the file used to build the application being debugged.

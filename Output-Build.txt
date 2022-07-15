@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: MyFristProject, Configuration: Debug Any CPU ------
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\PenPaperTestSunday10July\CheckAphaDigitorSpecialsymbolt.cs(12,57,12,58): error CS1026: ) expected
+1>Done building project "MyFristProject.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
