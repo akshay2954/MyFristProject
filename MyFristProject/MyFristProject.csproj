@@ -5,7 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
 
 	
-	  <StartupObject>MyFristProject.Loops.BreakContinue</StartupObject>
+	  <StartupObject>MyFristProject.Encapsulation.PrimeMethodsum</StartupObject>
   </PropertyGroup>
 
 </Project>

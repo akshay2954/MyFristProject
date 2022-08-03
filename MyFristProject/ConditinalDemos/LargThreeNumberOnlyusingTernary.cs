@@ -9,15 +9,17 @@ namespace MyFristProject.ConditinalDemos
         //Fine out large Three number using ( "Only Ternary Operator")
         static void Main(string[] args)
         {
-            int n1, n2, n3;
-            Console.WriteLine(" Enter Number 1");
-            n1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(" Enter Number 2");
-            n2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(" Enter Number 3");
-            n3 = Convert.ToInt32(Console.ReadLine());
+            
+            string number;  // <- string is use for AlphaNumeric Value ... 
 
-            string number = n1 > n2 ? "number 1 large" : n2 > n3 ? "number 2 large" : "number 3 large";
+            Console.WriteLine(" Enter Number 1");
+            int  n1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(" Enter Number 2");
+            int  n2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(" Enter Number 3");
+            int   n3 = Convert.ToInt32(Console.ReadLine());
+
+            number = n1 > n2 ? "number 1 large" : n2 >  n3 ? "number 2 large" : "number 3 large";
             Console.WriteLine(" Ans =" + number);
             Console.ReadKey();
             

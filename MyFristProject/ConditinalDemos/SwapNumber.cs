@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace MyFristProject.ConditinalDemos
-{
+{ 
     class SwapNumber
+
     {
         // WAP To SwapNumber between 2 number 
         static void Main(string[] args)

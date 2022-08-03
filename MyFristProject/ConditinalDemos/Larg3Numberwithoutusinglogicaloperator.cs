@@ -10,7 +10,7 @@ namespace MyFristProject.ConditinalDemos
        // (Using Nested if else Condition)
         static void Main(string[] args)
         {
-            int n1, n2, n3, largest;
+            int n1, n2, n3, large;
             Console.WriteLine("enter number 1");
             n1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter number 2");

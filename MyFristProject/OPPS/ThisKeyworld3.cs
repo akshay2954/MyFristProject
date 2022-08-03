@@ -6,9 +6,10 @@ namespace MyFristProject.OPPS
 { 
     class CarSuv
     {
-        String car_name;
+        // 3 Type of use thiskeyworld 
+       String car_name;
         String Model_Number;
-        public CarSuv():this("Bmw","x7")
+        public CarSuv():this("BMW","8i")
         {
             Console.WriteLine("Default Car"); //<- default Constructor
         }
@@ -31,14 +32,14 @@ namespace MyFristProject.OPPS
 
 
 
-    class ThisKeyworld3
+    class ThisKeyworld
     {
         static void Main(string[] args)
         {
-            CarSuv BMW = new CarSuv();
+          CarSuv BMW = new CarSuv();
 
-            CarSuv Audi = new CarSuv("Audi","Q7");
-            Audi.show();
+           // CarSuv Audi = new CarSuv("Audi","Q7");
+            
         } 
     }
 }

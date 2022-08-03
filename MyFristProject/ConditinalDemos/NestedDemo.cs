@@ -39,6 +39,6 @@ namespace MyFristProject.ConditinalDemos
             {
                 Console.WriteLine("Person is not valid for blood donation try next time......");
             }*/
-        }
-    }
+        }    }
+
 }

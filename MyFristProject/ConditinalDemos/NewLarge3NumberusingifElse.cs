@@ -6,6 +6,7 @@ namespace MyFristProject.ConditinalDemos
 {
     class NewLarge3NumberusingifElse
     {
+        // large 3 number using ( Nested if Else )
         static void Main(string[] args)
         {
             Console.WriteLine("Enter Numbr 1");
@@ -26,10 +27,9 @@ namespace MyFristProject.ConditinalDemos
                 }
             }else if ( num2>num3)
             {
-              
-               
+         
                     Console.WriteLine("Number 2 is Large= "+num2);
-               
+            
             }
             else
             {

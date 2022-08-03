@@ -6,7 +6,7 @@ namespace MyFristProject.ConditinalDemos
 {
     class largestThreeNumberifelse
     {
-        // find out largest 3 number using( if else)
+        // find out largest 3 number using( if else and logical && <- operator )
         static void Main(string[] args)
         {
 

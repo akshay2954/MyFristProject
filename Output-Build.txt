@@ -1,5 +1,16 @@
 ﻿Build started...
 1>------ Build started: Project: MyFristProject, Configuration: Debug Any CPU ------
-1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\PenPaperTestSunday10July\CheckAphaDigitorSpecialsymbolt.cs(12,57,12,58): error CS1026: ) expected
+1>CSC : error CS1555: Could not find 'MyFristProject.OPPS.Fristandlastsumdigit' specified for Main method
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\WrittenTestSunday16July\Fibboseries.cs(22,7,22,14): warning CS0162: Unreachable code detected
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\ConditinalDemos\SwitchUsingAreaProperties.cs(41,21,41,28): warning CS0162: Unreachable code detected
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\Basic\NewNumberSeries.cs(20,20,20,27): warning CS1717: Assignment made to same variable; did you mean to assign something else?
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\ConditinalDemos\SwitchDemoUsingVowel.cs(47,21,47,28): warning CS0162: Unreachable code detected
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\ConditinalDemos\SwitchDemo2UsingCalculator.cs(32,21,32,28): warning CS0162: Unreachable code detected
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\OPPS\Student5.cs(48,22,48,35): error CS0029: Cannot implicitly convert type 'void' to 'int'
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\ConditinalDemos\SwitchCaseUsingDay.cs(42,21,42,28): warning CS0162: Unreachable code detected
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\ConditinalDemos\Larg3Numberwithoutusinglogicaloperator.cs(13,29,13,34): warning CS0168: The variable 'large' is declared but never used
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\OPPS\ConstructorAgain.cs(10,15,10,16): warning CS0649: Field 'ConstructorAgain.x' is never assigned to, and will always have its default value null
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\OPPS\TestConstructor.cs(9,13,9,14): warning CS0649: Field 'TestConstructor.A' is never assigned to, and will always have its default value 0
+1>C:\Users\athak\source\repos\MyFristProject\MyFristProject\MyFristProject\OPPS\Student5.cs(12,16,12,26): warning CS0649: Field 'Student5.Percentage' is never assigned to, and will always have its default value 0
 1>Done building project "MyFristProject.csproj" -- FAILED.
 ========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
