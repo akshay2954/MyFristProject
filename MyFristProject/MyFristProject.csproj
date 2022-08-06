@@ -5,7 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
 
 	
-	  <StartupObject>MyFristProject.Encapsulation.PrimeMethodsum</StartupObject>
+	  <StartupObject>MyFristProject.Inheritane_Demo.HirachicalDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
