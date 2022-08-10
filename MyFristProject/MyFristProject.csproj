@@ -5,7 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
 
 	
-	  <StartupObject>MyFristProject.Inheritane_Demo.HirachicalDemo</StartupObject>
+	  <StartupObject>MyFristProject.Arrey.EvenPositionarray3</StartupObject>
   </PropertyGroup>
 
 </Project>
